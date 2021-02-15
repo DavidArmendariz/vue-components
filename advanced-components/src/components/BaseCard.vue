@@ -1,7 +1,10 @@
 <template>
   <div>
+    <!-- <header v-if="$slots.header"> -->
     <header>
-      <slot name="header"></slot>
+      <slot name="header">
+        <h2>The Default</h2>
+      </slot>
     </header>
     <slot></slot>
   </div>
