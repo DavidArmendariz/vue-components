@@ -1,4 +1,4 @@
-# Inject and Provide in Vue
+# Vue components
 
 I learned how to use inject and provide in Vue. In summary, what I learned here:
 
