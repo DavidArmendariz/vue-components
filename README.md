@@ -19,5 +19,5 @@ I learned how to use inject and provide in Vue. In summary, what I learned here:
 
 ## Provide-inject
 
-- If data needs to be passed accross multiple components ("pass-throught"), you can use **provide/inject**.
+- If data needs to be passed accross multiple components ("pass-through"), you can use **provide/inject**.
 - Provide data in a parent component, inject it into a child component
